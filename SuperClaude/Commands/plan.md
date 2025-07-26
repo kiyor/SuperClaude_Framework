@@ -303,6 +303,23 @@ plan-{date}-{task-slug}.md
 *Generated: {ISO datetime}*
 *Complexity: {Level} | Sessions: {N} | Duration: {estimated}*
 
+## 📝 Requirements Evolution
+
+### Initial Request
+*Original user input from $ARGUMENTS*
+```
+{原始用户需求，直接从$ARGUMENTS获取，保持原始格式和语言}
+```
+
+### Discussion Summary
+*Key clarifications and changes from interactive planning (if applicable)*
+- **Architecture Decisions**: {用户确认的架构方案和理由}
+- **Technology Choices**: {讨论确定的技术栈和工具}  
+- **Scope Clarifications**: {用户补充的重要功能细节}
+- **Boundary Adjustments**: {讨论中明确的功能边界和排除项}
+- **Priority Confirmations**: {用户指定的重要性排序和时间要求}
+- **Additional Context**: {讨论中发现的重要背景信息}
+
 ## 📋 Executive Summary
 - **Goal**: {One sentence description}
 - **Scope**: {Key deliverables}
